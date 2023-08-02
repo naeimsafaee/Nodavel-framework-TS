@@ -1,0 +1,28 @@
+{
+  "name": "@naeimsafaee/nodavel-framework",
+  "version": "1.0.2",
+  "description": "Laravel routing for express js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.18.1",
+    "express-async-errors": "^3.1.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devdependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  },
+  "author": "naeimsafaee",
+  "license": "ISC",
+  "keywords": [
+    "node routing",
+    "laravel routing",
+    "routing package",
+    "naeimsafaee"
+  ]
+}
